@@ -1,7 +1,6 @@
 # Exercise-02d-Godot-Template
-Exercise for MSCH-C220, 15 February 2021
-
-A Godot Project Template, for use in future projects.
+2D Platformer project
+Run past enemies and collect coins
 
 ## Implementation
 Built using Godot 3.2.3
